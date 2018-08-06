@@ -22,3 +22,4 @@ C. The script will output a countdown from 15 to 1 in the browser window.
 
 D. The script will output 15, then 1, because it will only write the first and last values of a ```while``` statement.
 
+### THE ANSWER IS 'C'
